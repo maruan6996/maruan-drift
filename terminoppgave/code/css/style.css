@@ -1,0 +1,239 @@
+body {
+    background-color: #ffe4b5;
+    height: 10%;
+    width: 100%;
+    margin: 0;
+}
+
+.btn1 {
+
+    font-size: 1rem;
+
+    font-weight: 700;
+
+    padding: 0.5em 1em;
+
+    color: var(--clr-accent);
+
+    background-color: var(--clr-rgba);
+
+    border: 10px solid var(--clr-accent);
+
+    border-radius: 5px;
+
+    transition: transform 0.3s;
+
+    color: white;
+}
+
+.btn1:hover {
+
+    transform: translateY(-10px);
+
+    color: black;
+
+}
+
+.btn1 {
+    color: #ffffff;
+    border: px solid black;
+}
+
+.menu a {
+    color: #ffffff;
+    text-decoration: none;
+    height: 30%;
+    width: 30%;
+    size: 50%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.btn1 {
+    font-size: x-large;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+}
+
+
+header {
+    background-color: #000;
+
+}
+
+.oppgavene {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    gap: 15.01%;
+}
+
+.logo img {
+    display: flex;
+    justify-content: center;
+    height: 30%;
+    width: 30%;
+    padding-left: 40%;
+
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+    padding-right: 5%;
+}
+
+.sosialemedier {
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+    gap: 9%;
+}
+
+.portada {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.85%;
+    gap: 9%;
+
+}
+
+.portada p {
+    display: flex;
+    justify-content: center;
+    border: #000 solid;
+    border-radius: 5%;
+    height: 500px;
+    width: 350px;
+    margin-top: 11%;
+    font-size: xx-large;
+    font: italic;
+}
+
+.portada img {
+    border: #000 solid;
+    height: 800px;
+    width: 650px;
+    margin-top: 5%;
+    border-radius: 2pc;
+}
+
+.inicio {
+    display: flex;
+    border: #000 solid;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #000;
+    color: #ffe4b5;
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
+
+.contactarme {
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    margin-top: 12.84%;
+}
+
+.iniciobajo {
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    margin-top: 8.71%;
+}
+
+.portada p {
+    display: flex;
+    justify-items: center;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+}
+
+.økernil a {
+    color: #ffffff;
+    text-decoration: none;
+    height: 30%;
+    width: 30%;
+    size: 50%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+}
+
+.økernil {
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+}
+
+.logoøkern {
+    display: flex;
+    margin-left: 15%;
+    margin-top: 5%;
+    gap: 20%;
+}
+
+
+.bannerøkern {
+    display: flex;
+    justify-content: right;
+    margin-right: 10%;
+    margin-top: 5%;
+    gap: 13%;
+}
+
+.oppgavene2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    gap: 15%PX;
+}
+
+.brukerveiledning {
+    display: flex;
+    justify-content: center;
+    gap: 0.5%;
+
+}
+
+.brukerveiledning2 {
+    display: flex;
+    justify-content: center;
+    gap: 0.5%;
+margin-top: 1%;
+}
+.menu2 a {
+    color: #ffffff;
+    text-decoration: none;
+    height: 30%;
+    width: 30%;
+    size: 50%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.menu2 {
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+}
+.video-om-meg{
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+}
+.textmedier p {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    margin-left: 40%;
+    height: 300px;
+    width: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+}
